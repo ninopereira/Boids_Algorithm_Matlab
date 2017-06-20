@@ -1,5 +1,6 @@
 # Boids_Algorithm_Matlab
 Implementation of Boids Algorithm in Matlab
+![](boids.png?raw=true)
 
 # Instructions
 - Run the script in Matlab (F5)
